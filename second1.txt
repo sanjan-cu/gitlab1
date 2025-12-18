@@ -1,1 +1,2 @@
 first line of second1 file
+second line is added to rebase
